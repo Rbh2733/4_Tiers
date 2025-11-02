@@ -1,0 +1,40 @@
+{
+  "v1.0": {
+    "final_value": 139267.69142862444,
+    "metrics": {
+      "Total Return": 39.26769142862445,
+      "CAGR": 6.203780179924223,
+      "Volatility": 4.473594030479785,
+      "Max Drawdown": -3.74484425681431,
+      "Sharpe Ratio": 0.9396874529254892,
+      "Win Rate": 0.0,
+      "Avg Win": 0.0,
+      "Avg Loss": 0.0,
+      "Total Trades": 8.0,
+      "Exit 2Q Rule": 0.0,
+      "Exit Stop Loss v1": 0.0,
+      "Exit Stop Loss v2": 0.0,
+      "Final Positions": 8.0,
+      "Years": 5.503080082135524
+    }
+  },
+  "v2.0": {
+    "final_value": 137548.79751543596,
+    "metrics": {
+      "Total Return": 37.548797515435965,
+      "CAGR": 5.964373160927816,
+      "Volatility": 4.257043100210032,
+      "Max Drawdown": -3.500628896165809,
+      "Sharpe Ratio": 0.9312504166876354,
+      "Win Rate": 0.0,
+      "Avg Win": 0.0,
+      "Avg Loss": -26.61494457539001,
+      "Total Trades": 10.0,
+      "Exit 2Q Rule": 0.0,
+      "Exit Stop Loss v1": 0.0,
+      "Exit Stop Loss v2": 2.0,
+      "Final Positions": 8.0,
+      "Years": 5.503080082135524
+    }
+  }
+}
